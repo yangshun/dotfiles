@@ -28,3 +28,6 @@ load-nvmrc() {
 }
 add-zsh-hook chpwd load-nvmrc
 load-nvmrc
+
+# Yarn
+export PATH="$HOME/.yarn/bin:$PATH"
