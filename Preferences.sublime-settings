@@ -5,7 +5,7 @@
 	"caret_extra_top": 1,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Material Oceanic Next (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_options":
 	[
@@ -29,6 +29,7 @@
 	[
 		120
 	],
+	"spell_check": true,
 	"tab_size": 2,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,

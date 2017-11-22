@@ -1,3 +1,4 @@
+# Python stuff
 alias p='python -m SimpleHTTPServer'
 
 # Golang stuff
@@ -31,3 +32,5 @@ load-nvmrc
 
 # Yarn
 export PATH="$HOME/.yarn/bin:$PATH"
+
+alias yi='yarn install'
