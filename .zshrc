@@ -99,7 +99,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # Python stuff
-alias p='python -m SimpleHTTPServer'
+function p() { python -m SimpleHTTPServer "$@" & open http://localhost:"$@" }
 
 # Golang stuff
 alias gr='go run main.go'
